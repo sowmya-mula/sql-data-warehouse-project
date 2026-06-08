@@ -21,15 +21,6 @@ This project addresses these challenges by building a centralized data warehouse
 * Implements dimensional modeling techniques
 * Produces trusted datasets for reporting and analytics
 
-### Business Goals
-
-* Create a single source of truth for business data
-* Improve data quality and consistency
-* Enable faster analytical queries
-* Support data-driven decision making
-* Establish a scalable foundation for future BI solutions
-
----
 
 ### Business Goals
 
