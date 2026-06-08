@@ -137,7 +137,7 @@ Contains cleaned, validated, and transformed data.
 #### Gold Layer
 Contains business-ready fact and dimension tables optimized for analytics and reporting.
 
-
+```
 
 # 📂 Repository Structure
 
@@ -172,7 +172,8 @@ sql-data-warehouse-project/
 └── LICENSE
 
 
-
+```
+```
 
 # 📜 License
 
@@ -182,7 +183,7 @@ You are free to use, modify, and distribute this project for educational and lea
 
 See the LICENSE file for additional details.
 
-
+```
 # 👨‍💻 About Me
 
 Hello! I'm **Sowmya**, an aspiring Data Analyst passionate about Data Analytics, Data Engineering, SQL, and Business Intelligence.
@@ -198,7 +199,7 @@ Hello! I'm **Sowmya**, an aspiring Data Analyst passionate about Data Analytics,
 - Excel
 - Data Modeling
 
-
+```
 ## 🙏 Acknowledgements
 
 Special thanks to the Data With Baraa SQL Data Warehouse tutorial for providing the guidance and inspiration for building this project.
