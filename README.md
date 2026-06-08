@@ -1,4 +1,3 @@
-If you're creating a portfolio project, I'd completely rewrite it to sound more like a real-world data engineering project rather than a tutorial exercise.
 
 # SQL Data Warehouse Project
 
