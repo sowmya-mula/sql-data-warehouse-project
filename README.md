@@ -196,16 +196,9 @@ Hi, I'm **Sowmya**, an aspiring Data Analyst with a strong interest in Data Engi
 * Power BI
 * Excel
 
-### Connect With Me
-
-* LinkedIn: *Add your LinkedIn profile*
-* GitHub: *Add your GitHub profile*
-* Email: *Add your email address*
-
----
 
 ## 🙏 Acknowledgements
 
-A special thanks to **Baraa Khatib** for creating the SQL Data Warehouse tutorial that inspired and guided the development of this project.
+A special thanks to **Data with Baraa** for creating the SQL Data Warehouse tutorial that inspired and guided the development of this project.
 
 ---
