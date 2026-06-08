@@ -31,38 +31,6 @@ This project addresses these challenges by building a centralized data warehouse
 
 ---
 
-## 🔗 Important Links
-
-### Project Resources
-
-* SQL Data Warehouse Tutorial by Data With Baraa
-* SQL Server Documentation
-* Project Repository
-
-If you're creating a portfolio project, I'd completely rewrite it to sound more like a real-world data engineering project rather than a tutorial exercise.
-
-# SQL Data Warehouse Project
-
-## 📖 Introduction
-
-This project demonstrates the end-to-end development of a modern SQL Data Warehouse using SQL Server. The solution integrates data from multiple business source systems, applies ETL processes to ensure data quality, and transforms raw operational data into analytics-ready datasets.
-
-The project follows the Medallion Architecture (Bronze, Silver, and Gold layers), a widely adopted data engineering pattern that improves data reliability, maintainability, and scalability. The final output consists of well-structured fact and dimension tables designed to support business intelligence, reporting, and analytical workloads.
-
----
-
-## 🎯 Project Overview
-
-Organizations generate large volumes of data from different operational systems. However, raw data is often inconsistent, duplicated, and difficult to analyze directly.
-
-This project addresses these challenges by building a centralized data warehouse that:
-
-* Consolidates data from CRM and ERP systems
-* Cleans and standardizes raw data
-* Applies business transformation rules
-* Implements dimensional modeling techniques
-* Produces trusted datasets for reporting and analytics
-
 ### Business Goals
 
 * Create a single source of truth for business data
@@ -73,17 +41,7 @@ This project addresses these challenges by building a centralized data warehouse
 
 ---
 
-## 🔗 Important Links
 
-### Project Resources
-
-* SQL Data Warehouse Tutorial by Data With Baraa
-* SQL Server Documentation
-* Project Repository
-
-> Add the actual URLs before publishing.
-
----
 
 ## 🚀 Project Implementation Steps
 
